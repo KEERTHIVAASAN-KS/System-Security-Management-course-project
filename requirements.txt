@@ -1,0 +1,5 @@
+pyinotify
+loguru
+python-nmap
+
+
